@@ -1,0 +1,4 @@
+.navbar  {background-color:DeepSkyBlue; color:white; border-style:none;}
+.account-wall {background-color:green; border-radius:2em;}
+.text-center-login-title {color:red;}
+.account-wall2 a {^color:blue;}

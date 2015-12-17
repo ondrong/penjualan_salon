@@ -1,0 +1,11 @@
+.//navbar  {background-color:DeepSkyBlue; color:white; border-style:none;}
+.account-wall {^border-radius:2em; margin-top:1px;}
+.wrapper {margin:20px auto; background-color:yellow;}
+.frm {margin:20px auto; background-color:red;}
+.form_create {background-color:red;}
+.form-group-col-md-6 {background-color:red;}
+.pull {float:right;}
+.btn a {color:white;}
+.btn a:hover {color:white; text-decoration:none;}
+
+div.clear {clear:both;}
